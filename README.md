@@ -1,3 +1,3 @@
-# testimonial-frontend - deployed at-
+# testimonial-frontend responsive challenge
 
-Frontend Mentor 7th Challenge 
+Frontend Mentor 8th Challenge 
